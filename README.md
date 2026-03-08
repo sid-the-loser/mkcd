@@ -8,4 +8,4 @@ mkcd() {
 
 > Only works on OSes that support `.bashrc` or `.zshrc` scripts.
 >
-> Example: Linux and MacOS
+> Example: `.bashrc` in Linux and `.zshrc` in MacOS
